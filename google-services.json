@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728171675808",
+    "project_id": "sherlock-code-f6d41",
+    "storage_bucket": "sherlock-code-f6d41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728171675808:android:4540b233a87e4c10b9c9c5",
+        "android_client_info": {
+          "package_name": "pt.ipsantarem.sherlockcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk75wg7M6x6LuS4QE6aRcqvzHj00vrMOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
